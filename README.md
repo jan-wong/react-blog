@@ -11,9 +11,13 @@ A react blog application
 * comment
 
   `id postId text userId createdTime updatedTime`
-* reply
-
-  `id commentId text userId createdTime updatedTime`
+## Page
+* Login
+* Register
+* PostList
+* UserPosts
+* PostDetail
+* PublishPost
 ## Skill
 * React - Hooks
 * Redux

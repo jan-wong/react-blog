@@ -6,6 +6,12 @@ mock('/user/login', {
   'data': '@guid'
 })
 
+mock('/user/logout', {
+  'status': 200,
+  'msg': 'success',
+  'data': '@guid'
+})
+
 mock('/user/register', {
   'status': 200,
   'msg': 'success',
